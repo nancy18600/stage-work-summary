@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Stage Work Summary"
+  short_description: "Turn work records into stage summaries and reviews."
+  default_prompt: "Use $stage-work-summary to organize my work records into a structured stage summary."
